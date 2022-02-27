@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general, or, No general over the present army of the Common-vvealth: in twenty two queries briefly handled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85904</idno>
+            <idno type="STC">Wing G505</idno>
+            <idno type="STC">Thomason E999_6</idno>
+            <idno type="STC">ESTC R202110</idno>
+            <idno type="EEBO-CITATION">99862513</idno>
+            <idno type="PROQUEST">99862513</idno>
+            <idno type="VID">114676</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114676)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E999[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general, or, No general over the present army of the Common-vvealth: in twenty two queries briefly handled.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "sept: 23.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114676:1" rendition="simple:additions"/>
+            <p> A GENERAL OR, NO GENERAL OVER The Preſent Army OF THE Common-vvealth: In Twenty Two QUERIES Briefly Handled.</p>
+            <p>Printed in the Year, 1659.</p>
+            <pb facs="tcp:114676:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:114676:2"/>
+            <head>A <hi>General,</hi> Or, no <hi>General,</hi> &amp;c.</head>
+            <div n="1" type="query">
+               <head>I.</head>
+               <p>VVHether the Army at this Juncture of time do Wiſely, Prudently, or according to their Duty, to Impoſe, Urge, or Deſire any thing more of the <hi>Parliament,</hi> then what the Reaſons of State before them, together with their Wiſdome, ſhall lead them unto?</p>
+            </div>
+            <div n="2" type="query">
+               <head>II.</head>
+               <p>Whether that the <hi>Parliament</hi> did not much like a prudent Council, in taking into their own hands the giving of Commiſſions; ſince that it is ſo eaſie for a General to form an Army of Perſons Diametrically oppoſite to the Intereſt of a Parliament: As was ſad<g ref="char:EOLhyphen"/>ly experimented upon the Nation by that Uſurper, General <hi>Cromwell;</hi> Who by that means became able to give Laws to his Superiours, together with three
+<pb n="4" facs="tcp:114676:3"/> Nations; became Supream whilſt he lulled a compa<g ref="char:EOLhyphen"/>ny of Stupid Souldiers, by a pretence of Piety and Godlineſſe?</p>
+            </div>
+            <div n="3" type="query">
+               <head>III.</head>
+               <p>Whether thoſe inconſiderate Officers of the Army do not know how eaſie it is for a General of an Army to make himſelf Protector, or King, or Emperour?</p>
+            </div>
+            <div n="4" type="query">
+               <head>IV.</head>
+               <p>Whether that in their Crying, <hi>viz. C. F.</hi> to be Ge<g ref="char:EOLhyphen"/>neral, be not intended <hi>J. L?</hi>
+               </p>
+            </div>
+            <div n="5" type="query">
+               <head>V.</head>
+               <p>Whether theſe ſordid, raſh, undigeſted, Underta<g ref="char:EOLhyphen"/>kings do not render us leſle formidable, and more weak, in the eyes of forreign Nations?</p>
+            </div>
+            <div n="6" type="query">
+               <head>VI.</head>
+               <p>Whether, that conſidering our diviſions, in reſpect of Religion and Civil Intereſt: it will not better be<g ref="char:EOLhyphen"/>come us to unite, that thereby the practiſes of the Church of <hi>Rome,</hi> by the Jeſuites their Emiſſaries, may be prevented?</p>
+            </div>
+            <div n="7" type="query">
+               <head>VII.</head>
+               <p>Whether or no, that if the Parliament had refu<g ref="char:EOLhyphen"/>ſed to paſſe Commiſſions for any Temporizers in the former Changes; they ever ſhould have had cauſe to fear ſuch under-hand practiſes?</p>
+            </div>
+            <div n="8" type="query">
+               <pb n="5" facs="tcp:114676:3"/>
+               <head>VIII.</head>
+               <p>Whether that the difficult obtaining Grants for Commiſſions, for faithful Adherers to, and Aſſertors of, the Liberty of a Common-wealth; was not the Symptom of another intended ſingle Perſon?</p>
+            </div>
+            <div n="9" type="query">
+               <head>IX.</head>
+               <p>Whether it becometh an Army, that waged War againſt a King, and executed him, and that did drive out his Poſterity, &amp; immediately declared for a Com<g ref="char:EOLhyphen"/>mon-wealth; to ſet up, any of their own Members, by the Name of General, Protector, Emperour, or any other Name or Title whatever?</p>
+            </div>
+            <div n="10" type="query">
+               <head>X.</head>
+               <p>Whether that by ſetting up a General now, contra<g ref="char:EOLhyphen"/>ry to the ſenſe of the Parliament, be not the moſt dan<g ref="char:EOLhyphen"/>gerous Undertaking that can be adventured upon; and the Conſequence nothing leſſe than Confuſion, and no<g ref="char:EOLhyphen"/>thing of more advantage to the common Enemy?</p>
+            </div>
+            <div n="11" type="query">
+               <head>XI.</head>
+               <p>Whether that thoſe that break the Iſe in that ſo dan<g ref="char:EOLhyphen"/>gerous an Undertaking, have not in their Eye Ad<g ref="char:EOLhyphen"/>vancement and Preferment, if they obtain Supremacy, and addition of power to thoſe whom they cry up?</p>
+            </div>
+            <div n="12" type="query">
+               <head>XII.</head>
+               <p>Whether thoſe they cry up for to be inveſted with
+<pb n="6" facs="tcp:114676:4"/> abſolute power in the Army, have more Religion and Piety, or can pretend to more, than <hi>O. C.</hi> did?</p>
+            </div>
+            <div n="13" type="query">
+               <head>XIII.</head>
+               <p>Since all men are Lyars, and the heart of man is de<g ref="char:EOLhyphen"/>ceitfull, and that there is none righteous no not one: If ſo, Whether then it be not the duty of the Parliament, to prevent any man or men whatſoe<g ref="char:EOLhyphen"/>ver, of ſo great a Temptation as Abſolute Power, by which means (for the moſt part) is ſhewn the vileneſſe that is in the hearts of the Sons of men?</p>
+            </div>
+            <div n="14" type="query">
+               <head>XIIII.</head>
+               <p>Whether an Oligarchy would not be dangerous now, ſince men in greateſt Truſt demonſtrate ſo much Ambition, that they cannot be ſtayed Six Months from a ravenous perſuite after Power and Honour?</p>
+            </div>
+            <div n="15" type="query">
+               <head>XV.</head>
+               <p>Whether ſuch Perſons as deſire to be Uppermoſt, be profitable Members to the Commonwealth?</p>
+            </div>
+            <div n="16" type="query">
+               <head>XVI.</head>
+               <p>Whether the pulling down of <hi>Richard</hi> the lame Protector, was any other then a deſign to ſet up others in his Room?</p>
+            </div>
+            <div n="17" type="query">
+               <head>XVII.</head>
+               <p>Whether the Calling this Parliament was inten<g ref="char:EOLhyphen"/>ded for any thing elſe, then a Curtain or Vail to the former indirect Actions?</p>
+            </div>
+            <div n="18" type="query">
+               <pb n="7" facs="tcp:114676:4"/>
+               <head>XVIII.</head>
+               <p>Whether if the Army had any Commonwealth Principles, the honeſteſt of them are not bound faith<g ref="char:EOLhyphen"/>fully to adhear to the Parliament.</p>
+            </div>
+            <div n="19" type="query">
+               <head>XIX.</head>
+               <p>Whether there can be any Action ſo Impious, Fool<g ref="char:EOLhyphen"/>iſh, Sordid, and to be ſcorned of all men; yea, of all Ages: If the Army ſhould have any hand in force<g ref="char:EOLhyphen"/>ing or impoſing any thing upon the Parliament: ſince it was their own work of calling them to fit again, and ſince have owned their Power by not a few publick Actions.</p>
+            </div>
+            <div n="20" type="query">
+               <head>XX.</head>
+               <p>Whether it will not argue that they have very ſhort memory, ſince it was but the other day that they bewailed their Apoſtacy, in declining the lawful and juſt power of this Parliament; and adhered to the baſe, ſelf, unrighteous, Ends of unworthy and ambitious minded men?</p>
+            </div>
+            <div n="21" type="query">
+               <head>XXI.</head>
+               <p>Whether it be poſſible, by any ſingle Perſon or o<g ref="char:EOLhyphen"/>ther Council, the Intereſt of the People of God, of diffe<g ref="char:EOLhyphen"/>rent perſwaſions, can be ſo well ſecured as by the pre<g ref="char:EOLhyphen"/>ſent Parliament.</p>
+            </div>
+            <div n="22" type="query">
+               <head>XXII.</head>
+               <p>Whether it doth not behove the preſent Parlia<g ref="char:EOLhyphen"/>ment to put their Authority to tryal, by calling to their
+<pb n="8" facs="tcp:114676:5"/> ayd, ſuch as ſhall adhere to them, in oppoſition of thoſe that ſhall dare impoſe any thing upon them, a<g ref="char:EOLhyphen"/>gainſt the Wiſdom, Policy, and Reſolution; and nor ſtoop to receive Lawes from the Servants of the Com<g ref="char:EOLhyphen"/>mon-wealth?</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>It is not to be feared that <hi>C. F.</hi> ever will uſurp ſupream Power, his Honeſty and Integrity is ſuch.</p>
+            <div type="note">
+               <head>NOTE</head>
+               <p>That the ſame Perſons that deſire him to be General, alſo de<g ref="char:EOLhyphen"/>ſire a <hi>Proteſtorian</hi> Inſtrument of Government-Maker to be Lievt. or Major General:</p>
+               <p>
+                  <hi>Smell out the reſt.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
